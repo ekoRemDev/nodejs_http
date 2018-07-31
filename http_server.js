@@ -1,7 +1,7 @@
 // 1 - We'll use Http
 const http = require('http');
 
-
+// 3 - That function will work when server start
 function myFunction() {
     console.log('My Function Runs');
 }
